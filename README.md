@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any project that help me on improve myself
 - 📫 How to reach me: 
 -         IG: @kamikaze16990, 
+-         email: alexandre.costa22@outlook.com
 -         linkedin: https://www.linkedin.com/in/alexandre-elias-cordeiro-bichara-da-costa-375637206/
 
 <!---
