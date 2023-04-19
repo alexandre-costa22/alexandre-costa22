@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandre-costa22
 - 👀 I’m interested in learn more and more about this magic world
-- 🌱 I’m currently learning Python, C++, PHP, SQL, HTML, CSS
+- 🌱 I’m currently learning Python, C++, PHP, SQL, HTML, CSS, JS and GIT
 - 💞️ I’m looking to collaborate on any project that help me on improve myself
 - 📫 How to reach me: 
 -         IG: @kamikaze16990, 
