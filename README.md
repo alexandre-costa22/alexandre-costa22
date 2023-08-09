@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 -         IG: @bigxandy.py 
 -         email: alexandre.costa22@outlook.com
--         linkedin: https://www.linkedin.com/in/alexandre-elias-cordeiro-bichara-da-costa-375637206/
+-         linkedin: https://www.linkedin.com/in/alexandre-costa-375637206/
 
 <!---
 alexandre-costa22/alexandre-costa22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
