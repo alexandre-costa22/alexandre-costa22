@@ -28,7 +28,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexandre-costa22&show_icons=true&theme=radical" width="48%">
-  <img src="https://streak-stats.demolab.com?user=alexandre-costa22&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alexandre-costa22&theme=tokyonight&no-bg=true&no-frame=true" />
 </div>
 
 ---
