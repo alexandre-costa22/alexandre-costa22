@@ -36,7 +36,7 @@
 ### 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexandre-costa-375637206)]([https://linkedin.com/in/seulink](https://www.linkedin.com/in/alexandre-costa-375637206/))
-[![E-mail](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=outlook&logoColor=white&link=mailto:alexandre.costa22@outlook.com)](mailto:alexandre.costa22@outlook.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alexandre.costa22@outlook.com)
 
 ---
 
