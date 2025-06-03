@@ -27,10 +27,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandre-costa22&show_icons=true&theme=radical" width="48%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandre-costa22&theme=dracula" styler="border-radius: 50px">
   <img src="https://github-profile-trophy.vercel.app/?username=alexandre-costa22&theme=tokyonight&no-bg=true&no-frame=true" />
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandre-costa22&theme=default)
 </div>
+ 
+ 
 
 ---
 
